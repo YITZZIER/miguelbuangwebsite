@@ -1,0 +1,14 @@
+body {
+    background: gray;
+}
+
+.container {
+    text-align: center;
+    margin-top: 250px;
+    padding: 30px;
+    font-size: large;
+}
+
+.button:active {
+    margin-left: 100px;
+}
